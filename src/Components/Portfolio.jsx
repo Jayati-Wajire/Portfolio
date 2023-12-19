@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/mountain.jpg";
+import image from "../images/berlin.jpg";
 
-const imageAltText = "Himalayan Mountains";
+const imageAltText = "Berlin, a city in Germany";
 
 /**
  * Project list
